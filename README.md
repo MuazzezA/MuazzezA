@@ -1,5 +1,6 @@
 ### Hi, I'm Muazzez  
-  
+
+  ![](https://komarev.com/ghpvc/?username=MuazzezA&color=blueviolet)
   
 - 👩‍💻  I am a computer engineering student and I am working to improve myself.     
   
