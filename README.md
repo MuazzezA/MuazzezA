@@ -1,4 +1,9 @@
-### Hi, I'm Muazzez  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=40&duration=2000&pause=4000&color=6CC644&background=FFFFFF00&width=650&height=80&lines=Welcome+To+My+Github+Forest+%F0%9F%8C%B3)](https://git.io/typing-svg)
+
+
+<br>
+
+# Hi, I'm Muazzez  
 
   [![](https://visitcount.itsvg.in/api?id=muazzeza&icon=0&color=0)](https://visitcount.itsvg.in)
 
