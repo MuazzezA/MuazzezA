@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=40&duration=2000&pause=4000&color=6CC644&background=FFFFFF00&width=650&height=80&lines=Welcome+To+My+Github+Forest+%F0%9F%8C%B3)](https://git.io/typing-svg)
-
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=40&duration=2000&pause=4000&color=6CC644&background=FFFFFF00&width=1450&height=70&lines=Commit+may+not+be+visible!+But+don't+worry%2C+I+write+code+every+day.+%F0%9F%92%9A)](https://git.io/typing-svg)
 
 # Hi, I'm Muazzez  
 
