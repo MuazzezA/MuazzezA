@@ -5,7 +5,7 @@
   [![](https://visitcount.itsvg.in/api?id=muazzeza&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
-- 👩‍💻  I am a computer engineering student and I am working to improve myself.     
+- 👩‍💻  I am a computer engineer and I am working to improve myself.     
   
 
 - 🎯 I like mobile programming and am also interested in algorithms.  
