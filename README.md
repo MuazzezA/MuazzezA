@@ -49,7 +49,7 @@
 <br/>  
 
 ## 🌐 Socials:
-<h4>ayd.muazzez@gmail.com</h4>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muazzezayd) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16593252) 
