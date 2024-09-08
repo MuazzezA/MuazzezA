@@ -47,17 +47,7 @@
 
 
 
-<br/>  
-
-## 🌐 Socials:
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muazzezayd) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16593252) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muazzezaydin) 
-
-
-<br/>  
+<br/> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muazzeza&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
