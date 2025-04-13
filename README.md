@@ -3,21 +3,22 @@
 
 ## Hi, I'm Muazzez  
 
-  [![](https://visitcount.itsvg.in/api?id=muazzeza&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=muazzeza&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://muazzeza.github.io">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-FF6347?style=for-the-badge&logo=github&logoColor=white" alt="PersonalWEB"/>
+  </a>
 
-  
-👩🏻‍💻 I am a computer engineer with a bachelor's degree, self-improvement is a passion for me.  
-  
 
-🎯 I'm interested in mobile programming and I find it fun to deal with weird and difficult problems.
- 
- 
-💫 I like to develop projects in teamwork. What would we do without Eslint?
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px; width: 100%; min-width: 250px;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh6aHdsZmxremZubDRwdjlwYTZ2bWY4cHd3ZGh0bjU0cnlsbTBzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" alt="GIF" style="flex: 0 0 auto; width: 50%; max-width: 50%;"/>
+  <div style="flex: 1 1 45%; max-width: 45%; overflow: hidden;">
+    <p>👩🏻‍💻 I am a computer engineer with a bachelor's degree, self-improvement is a passion for me.</p>
+    <p>🎯 I'm interested in mobile programming and I find it fun to deal with weird and difficult problems.</p>
+    <p>💫 I like to develop projects in teamwork. What would we do without Eslint?</p>
+    <p>🦾 Every day I work diligently to be a better version of myself. There is no time to be worse than yesterday!</p>
+  </div>
+</div>
 
-🦾  Every day I work diligently to be a better version of myself. There is no time to be worse than yesterday!
-
-<br/>  
- 
 
 ## 💻 Tech Stack:
 <div align="center">
