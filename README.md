@@ -1,20 +1,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedan+SC&size=28&pause=1000&color=FFC606&vCenter=true&random=false&width=600&lines=Be+better+today+than+you+were+yesterday)](https://git.io/typing-svg)
 
-# Hi, I'm Muazzez  
+## Hi, I'm Muazzez  
 
   [![](https://visitcount.itsvg.in/api?id=muazzeza&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
--  👩🏻‍💻 I am a computer engineer and I am working to improve myself.     
+👩🏻‍💻 I am a computer engineer with a bachelor's degree, self-improvement is a passion for me.  
   
 
-- 🎯 I like mobile programming and am also interested in algorithms.  
+🎯 I'm interested in mobile programming and I find it fun to deal with weird and difficult problems.
  
  
-- 💫  I like to develop projects in teamwork.  
+💫 I like to develop projects in teamwork. What would we do without Eslint?
 
-- 🦾  With a strong belief in the value of each day, I work diligently to become a better version of myself.
+🦾  Every day I work diligently to be a better version of myself. There is no time to be worse than yesterday!
 
 <br/>  
  
