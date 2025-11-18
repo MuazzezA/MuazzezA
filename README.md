@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedan+SC&size=28&pause=1000&color=FFC606&vCenter=true&random=false&width=600&lines=Be+better+today+than+you+were+yesterday)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Macondo&duration=3000&pause=1000&color=901515&background=FFFFFF00&width=435&lines=You+know+I%E2%80%99m+going+to+make+it.)](https://git.io/typing-svg)
 
 ## Hi there!
 
