@@ -9,8 +9,6 @@
   
 <div align="flex-start">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh6aHdsZmxremZubDRwdjlwYTZ2bWY4cHd3ZGh0bjU0cnlsbTBzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" width="300" alt="GIF" />
-
 </div>
 
 ---
